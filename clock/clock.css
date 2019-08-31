@@ -8,3 +8,9 @@ h1{
 .clicked{
   color: aquamarine;
 }
+.js-form, .js-greeting{
+  display: none;
+}
+.showing{
+  display: block;
+}
